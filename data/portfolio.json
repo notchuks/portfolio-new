@@ -1,0 +1,58 @@
+{
+  "name": "Chukwuka",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Chukwuka Ezem - a",
+  "headerTaglineThree": "Software Engineer from",
+  "headerTaglineFour": "Lagos, Nigeria.",
+  "showCursor": false,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/notchuks"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chukwuka-ezem"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/notchuka"
+    },
+    { "id": "4", "title": "Blog", "link": "https://dev.to/notchuks" },
+    { "id": "5", "title": "Email", "link": "mailto:chukaezem@gmail.com" }
+  ],  
+  "resume": {
+    "tagline": "👋 Software Engineer.",
+    "description": "I am an impact-focused Software Engineer who loves to build secure, reliable and user-friendly applications that can scale. I am Well-versed in React, Typescript, Spring and NodeJS.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "September 2020 - March 2023",
+        "type": "Part Time",
+        "position": "Software Developer at Business & Transport Intl.",
+        "bullets": "Built and maintained New Web Application with React & WordPress, Solved Downtime Problems"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "October 2019 - March 2023",
+        "type": "Internship",
+        "position": "Software Engineering Intern",
+        "bullets": "Employee Management System built with React, Django & PostgreSQL, Configured on-premises network infrastructure"
+      }
+    ],
+    "education": {
+      "universityName": "University of Nigeria, Nsukka",
+      "universityDate": "2017-2022",
+      "universityPara": "Digital Design, Data Structures & Algorithms, Operations Research, System Analysis & Design, Operating Systems, Telecommunication Networks"
+    },
+    "languages": ["Java", "Javascript", "Python", "Solidity", "Typescript"],
+    "frameworks": ["React", "Spring", "NodeJs"],
+    "others": ["Git", "Docker", "AWS"]
+  }
+}
